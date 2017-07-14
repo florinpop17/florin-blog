@@ -1,0 +1,22 @@
+body {
+    margin-top: 5%;
+}
+
+.preview-box {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px 30px;
+    min-height: 300px;
+}
+
+.preview-box > *:first-child {
+    margin-top: 0;
+}
+
+.preview-box > *:last-child {
+    margin-bottom: 0;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
